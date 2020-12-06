@@ -1,0 +1,19 @@
+.college_box{
+  margin: 30px;
+  border: 1px solid gray;
+  width: 800px;
+  border-radius: 5px;
+  display: inline-block;
+}
+section{
+  margin: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.left{
+  background-color: white;
+  border-radius: 50px 50px;
+  width: 140px;
+  margin: -20px 10px 10px 10px;
+  z-index: 200;
+}
